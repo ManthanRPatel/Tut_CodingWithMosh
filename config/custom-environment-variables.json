@@ -1,0 +1,10 @@
+{
+    "name":"My Express App- development",
+    "mail":{
+        "host":"dev-mail-server",
+        "password":""
+    },
+    "jwtPrivateKey":"vidly_jwtPrivateKey",
+    "emailPrivateKey":"vidly_emailPrivateKey",
+    "resetPassrivateKey":"vidly_resetPassPrivateKey"
+}
